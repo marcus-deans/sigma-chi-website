@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sigma-chi-website/static/css/main.073c9b0a.css",
-    "main.js": "/sigma-chi-website/static/js/main.d9976174.js",
+    "main.js": "/sigma-chi-website/static/js/main.0d20a89e.js",
     "static/js/787.30d0b192.chunk.js": "/sigma-chi-website/static/js/787.30d0b192.chunk.js",
     "static/media/logo.svg": "/sigma-chi-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sigma-chi-website/index.html",
     "main.073c9b0a.css.map": "/sigma-chi-website/static/css/main.073c9b0a.css.map",
-    "main.d9976174.js.map": "/sigma-chi-website/static/js/main.d9976174.js.map",
+    "main.0d20a89e.js.map": "/sigma-chi-website/static/js/main.0d20a89e.js.map",
     "787.30d0b192.chunk.js.map": "/sigma-chi-website/static/js/787.30d0b192.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d9976174.js"
+    "static/js/main.0d20a89e.js"
   ]
 }
